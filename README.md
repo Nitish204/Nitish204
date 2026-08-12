@@ -80,8 +80,8 @@ class Nitish:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b27&height=2&width=1000"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nitish204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api?username=Nitish204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=Nitish204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
@@ -111,24 +111,24 @@ class Nitish:
 <div align="center">
 
 <a href="https://github.com/Nitish204/Nexus-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=Nexus-AI&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=Nitish204&repo=Nexus-AI&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/Nitish204/WayPost_Placement_Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=WayPost_Placement_Agent&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=Nitish204&repo=WayPost_Placement_Agent&theme=tokyonight&hide_border=true"/>
 </a>
 <br/>
 <a href="https://github.com/Nitish204/advancing_aviation_safety">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=advancing_aviation_safety&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=Nitish204&repo=advancing_aviation_safety&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/Nitish204/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=portfolio&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=Nitish204&repo=portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 <br/>
 <a href="https://github.com/Nitish204/placement_managment_system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=placement_managment_system&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=Nitish204&repo=placement_managment_system&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/Nitish204/restaurant_management_system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=restaurant_management_system&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=Nitish204&repo=restaurant_management_system&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
