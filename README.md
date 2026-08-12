@@ -110,18 +110,25 @@ class Nitish:
 
 <div align="center">
 
-<a href="https://github.com/Nitish204/portfolio-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=portfolio-website&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Nitish204/Nexus-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=Nexus-AI&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/Nitish204/restaurant_management_system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=restaurant_management_system&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Nitish204/WayPost_Placement_Agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=WayPost_Placement_Agent&theme=tokyonight&hide_border=true"/>
+</a>
+<br/>
+<a href="https://github.com/Nitish204/advancing_aviation_safety">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=advancing_aviation_safety&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/Nitish204/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 <br/>
 <a href="https://github.com/Nitish204/placement_managment_system">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=placement_managment_system&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/Nitish204/todo_list">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=todo_list&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Nitish204/restaurant_management_system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitish204&repo=restaurant_management_system&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
