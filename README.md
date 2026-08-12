@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:1a1b27&height=280&section=header&text=Vishwakarma%20Nitish&fontSize=42&fontColor=7aa2f7&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20Security&descAlignY=48&descSize=16&descColor=c0caf5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:1a1b27&height=200&section=header&text=Vishwakarma%20Nitish&fontSize=46&fontColor=7aa2f7&animation=fadeIn&fontAlignY=42"/>
+
+### AI & Full-Stack Developer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Deep Learning Security
 
 <a href="https://www.linkedin.com/in/vishwakarmanitish/"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
 <a href="https://github.com/Nitish204"><img src="https://img.shields.io/badge/GitHub-24283b?style=for-the-badge&logo=github&logoColor=c0caf5"/></a>
 <a href="mailto:nanivish234@gmail.com"><img src="https://img.shields.io/badge/Gmail-24283b?style=for-the-badge&logo=gmail&logoColor=f7768e"/></a>
-<img src="https://komarev.com/ghpvc/?username=Nitish204&label=Profile+Views&color=24283b&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Nitish204&label=Profile+Views&color=24283b&style=for-the-badge&base=1000"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+AI+that+sees+%2B+secures+%2B+scales;Computer+Vision+%7C+Deep+Learning+%7C+Full-Stack;Turning+research+into+production+systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+AI+that+sees+%2B+secures+%2B+scales;Computer+Vision+%7C+Deep+Learning+%7C+Full-Stack;Turning+research+into+production+systems"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:bb9af7&height=3&width=900"/>
 
