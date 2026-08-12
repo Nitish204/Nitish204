@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:1a1b27&height=220&section=header&text=Vishwakarma%20Nitish&fontSize=48&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20Security&descAlignY=58&descSize=18&descColor=c0caf5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:1a1b27&height=280&section=header&text=Vishwakarma%20Nitish&fontSize=42&fontColor=7aa2f7&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20Security&descAlignY=48&descSize=16&descColor=c0caf5"/>
 
 <a href="https://www.linkedin.com/in/vishwakarmanitish/"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
 <a href="https://github.com/Nitish204"><img src="https://img.shields.io/badge/GitHub-24283b?style=for-the-badge&logo=github&logoColor=c0caf5"/></a>
